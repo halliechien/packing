@@ -1,0 +1,16 @@
+@charset "utf-8";
+body {font-family:Arial, "微軟正黑體", "Microsoft JhengHei", sans-serif;}
+a {color:#000;}
+
+.title {font-size:24px; font-weight:bold;}
+.form_data {font-size:13px;}
+.remark_wrap ol {font-size:8px; letter-spacing:0.15px; text-align:justify;}
+.table_set {font-size:12px;}
+.footer_title {font-size:12px; font-weight:bold; }
+.service {font-size:9px;}
+.qr_word {font-size:10px; font-weight:bold;}
+
+
+
+
+
